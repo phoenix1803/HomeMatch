@@ -12,7 +12,6 @@
 6. [File Structure](#6-file-structure)
 7. [Troubleshooting](#7-troubleshooting)
 8. [API Reference](#8-api-reference)
-9. [License](#9-license)
 
 ---
 
@@ -139,6 +138,8 @@ e. Example Queries
 "Historic home with character near downtown"
 
 ## 6. File Structure
+
+```text
 homematch/
 ├── main.py                 # Primary application script
 ├── chroma_db/              # Vector database storage
@@ -146,7 +147,7 @@ homematch/
 ├── requirements.txt        # Dependency list
 ├── property_listings.json  # Sample export
 └── Listings.txt            # Text backup format
-
+```
 
 ## 7. Troubleshooting
 a. Common Issues
