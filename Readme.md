@@ -1,6 +1,5 @@
 # HomeMatch - Intelligent Property Finder
 
-![HomeMatch Logo](https://via.placeholder.com/150x50?text=HomeMatch)  
 *Last Updated: May 12, 2025*  
 *Author: Prakhar Chandra*
 
@@ -29,22 +28,22 @@ The system helps users find properties that truly match their needs by understan
 ## 2. Key Features
 
 ### Core Functionality
-- 🔍 **Semantic Property Search**
+-  **Semantic Property Search**
   - Understands natural language queries like "modern home near parks with updated kitchen"
   - Combines keyword matching with contextual understanding
-- 🏡 **Smart Property Recommendations**
+-  **Smart Property Recommendations**
   - Generates personalized highlights for each listing
   - Visual match scoring system (0-100%)
-- 📊 **Advanced Filtering**
+-  **Advanced Filtering**
   - Price range sliders
   - Bedroom/bathroom requirements
   - Neighborhood and property type selectors
 
 ### Data Management
-- 🗃️ **Persistent Vector Database**
+-  **Persistent Vector Database**
   - ChromaDB storage of property embeddings
   - Automatic cache management
-- 📥 **Data Export**
+-  **Data Export**
   - JSON download of current listings
   - Plain text backup option
 
@@ -110,13 +109,13 @@ streamlit run main.py
 
 b. User Interface Guide
 
--Search Interface
+- Search Interface
 
--Enter natural language description of desired property
+- Enter natural language description of desired property
 
--Adjust filters in sidebar
+- Adjust filters in sidebar
 
--Click "Find Matching Properties"
+- Click "Find Matching Properties"
 
 c. Results View
 
