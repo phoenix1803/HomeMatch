@@ -1,0 +1,165 @@
+[
+  {
+    "description": "Spacious and inviting boasts hardwood floors and a cozy fireplace. offering panoramic views and walk-in closets. including a finished basement and private backyard.",
+    "id": "f171ba33-ff86-4170-9d19-5f08ae033aa6",
+    "property_type": "Single Family Home",
+    "neighborhood_description": "Quiet streets and family-friendly atmosphere.",
+    "bathrooms": 1,
+    "year_built": 1957,
+    "price": 176034,
+    "neighborhood": "Harbor District",
+    "size_sqft": 847,
+    "amenities": [
+      "Updated Kitchen",
+      "Fireplace",
+      "Fitness Center",
+      "Swimming Pool",
+      "Attached Garage"
+    ],
+    "bedrooms": 3
+  },
+  {
+    "neighborhood_description": "Perfect for commuters with easy transit access.",
+    "id": "e735c46a-8c02-45ae-abf3-fb1f77acb819",
+    "bathrooms": 1,
+    "year_built": 2014,
+    "property_type": "Townhouse",
+    "bedrooms": 5,
+    "neighborhood": "Harbor District",
+    "size_sqft": 1454,
+    "description": "Bright and airy with updated bathrooms and ample storage. offering panoramic views and walk-in closets. offering panoramic views and walk-in closets.",
+    "amenities": [
+      "Central AC",
+      "Swimming Pool",
+      "Attached Garage",
+      "Granite Countertops",
+      "In-unit Laundry",
+      "Updated Kitchen",
+      "Fenced Yard"
+    ],
+    "price": 1807832
+  },
+  {
+    "bedrooms": 5,
+    "amenities": [
+      "Granite Countertops",
+      "Deck",
+      "Fenced Yard",
+      "Swimming Pool"
+    ],
+    "neighborhood": "Maple Ridge",
+    "size_sqft": 4075,
+    "bathrooms": 2,
+    "description": "Elegant and thoughtfully designed including a finished basement and private backyard. including a finished basement and private backyard. with an open floor plan and abundant natural light.",
+    "property_type": "Condo",
+    "neighborhood_description": "Close to schools, parks, and shopping centers.",
+    "year_built": 1980,
+    "price": 191956,
+    "id": "b88d77cf-5736-414a-b6ce-72c660915c32"
+  },
+  {
+    "neighborhood_description": "Bustling neighborhood with cafes and boutiques.",
+    "year_built": 1961,
+    "neighborhood": "Westside Village",
+    "amenities": [
+      "Fitness Center",
+      "Fenced Yard",
+      "Walk-in Closets",
+      "Attached Garage",
+      "In-unit Laundry",
+      "Deck",
+      "Swimming Pool"
+    ],
+    "id": "aaf31b24-1fff-4975-b740-6c8644bacac8",
+    "description": "Bright and airy including a finished basement and private backyard. offering panoramic views and walk-in closets. offering panoramic views and walk-in closets.",
+    "property_type": "Apartment",
+    "bedrooms": 2,
+    "bathrooms": 4,
+    "price": 1468222,
+    "size_sqft": 4276
+  },
+  {
+    "amenities": [
+      "Swimming Pool",
+      "Fireplace",
+      "Hardwood Floors",
+      "Smart Home Features",
+      "In-unit Laundry",
+      "Granite Countertops"
+    ],
+    "year_built": 1992,
+    "bathrooms": 3,
+    "bedrooms": 4,
+    "neighborhood_description": "Close to schools, parks, and shopping centers.",
+    "size_sqft": 945,
+    "neighborhood": "Sunset Hills",
+    "id": "9157f075-5ee7-4040-9e01-7ccd6ea9fb69",
+    "price": 1529963,
+    "property_type": "Condo",
+    "description": "Modern and well-maintained boasts hardwood floors and a cozy fireplace. boasts hardwood floors and a cozy fireplace. with updated bathrooms and ample storage."
+  },
+  {
+    "id": "7fc67b13-2197-4761-93e9-86eca8298480",
+    "size_sqft": 2430,
+    "property_type": "Townhouse",
+    "description": "Spacious and inviting featuring a chef's kitchen with stainless steel appliances. with an open floor plan and abundant natural light. with an open floor plan and abundant natural light.",
+    "bathrooms": 1,
+    "year_built": 2008,
+    "neighborhood": "University Heights",
+    "amenities": [
+      "Fenced Yard",
+      "Swimming Pool",
+      "In-unit Laundry",
+      "Smart Home Features",
+      "Walk-in Closets",
+      "Updated Kitchen",
+      "Hardwood Floors"
+    ],
+    "neighborhood_description": "Perfect for commuters with easy transit access.",
+    "bedrooms": 5,
+    "price": 1165135
+  },
+  {
+    "year_built": 1951,
+    "bathrooms": 2,
+    "neighborhood_description": "Access to scenic walking trails and green spaces.",
+    "property_type": "Apartment",
+    "description": "Modern and well-maintained with updated bathrooms and ample storage. boasts hardwood floors and a cozy fireplace. with an open floor plan and abundant natural light.",
+    "id": "626d69cb-5c3a-47d5-aaec-b05abdba9f8f",
+    "neighborhood": "Downtown Core",
+    "price": 948924,
+    "bedrooms": 3,
+    "size_sqft": 1539,
+    "amenities": [
+      "Walk-in Closets",
+      "Smart Home Features",
+      "Central AC",
+      "Attached Garage",
+      "Granite Countertops",
+      "Fireplace",
+      "Fenced Yard"
+    ]
+  },
+  {
+    "amenities": [
+      "Fitness Center",
+      "Swimming Pool",
+      "Fireplace",
+      "Deck",
+      "Central AC",
+      "Hardwood Floors",
+      "Updated Kitchen",
+      "Granite Countertops"
+    ],
+    "neighborhood": "Downtown Core",
+    "id": "d38482a2-9df9-4f0e-a24b-7fd572f0d549",
+    "bedrooms": 1,
+    "price": 453063,
+    "bathrooms": 3,
+    "neighborhood_description": "Perfect for commuters with easy transit access.",
+    "year_built": 1975,
+    "property_type": "Condo",
+    "description": "Charming and recently renovated featuring a chef's kitchen with stainless steel appliances. offering panoramic views and walk-in closets. with updated bathrooms and ample storage.",
+    "size_sqft": 902
+  }
+]
