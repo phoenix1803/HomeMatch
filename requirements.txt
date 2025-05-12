@@ -1,0 +1,10 @@
+streamlit
+chromadb
+langchain-openai 
+langchain-community 
+transformers 
+torch 
+requests 
+python-dotenv 
+pillow
+
